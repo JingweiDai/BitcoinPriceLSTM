@@ -1,6 +1,6 @@
 # BitcoinPriceLSTM
-This study intends to predict Bitcoin price using long
-short-term memory (LSTM), combined with Google Trend
+This study intends to predict Bitcoin price using Long
+Short-Term Memory (LSTM) based Recurrent Neural Network, combined with Google Trend
 for keywords related to Bitcoin and commonly used financial indicators. It also compares the performance of the
 proposed model with other models, including LSTM with
 Google Trend but without financial indicators, LSTM without Google Trend and financial indicators, as well as traditional financial forecasting methods like the ARIMA model.
