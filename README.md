@@ -1,4 +1,5 @@
 # BitcoinPriceLSTM
+This is my course project for [Introduction to Deep Learning](http://dl.ee.cuhk.edu.hk/) at CUHK.
 This study intends to predict Bitcoin price using Long
 Short-Term Memory (LSTM) based Recurrent Neural Network, combined with Google Trend
 for keywords related to Bitcoin and commonly used financial indicators. It also compares the performance of the
